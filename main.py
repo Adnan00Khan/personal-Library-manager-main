@@ -82,4 +82,4 @@ if st.button("Remove Book"):
         st.error("❌ Please enter a book title!")
 
 # Footer
-st.markdown("<br><br><p style='text-align: center; color: gray;'>Created by AK SoftTech</p>", unsafe_allow_html=True)
+st.markdown("<br><br><p style='text-align: center; color: gray;'>Created by Adnan khan</p>", unsafe_allow_html=True)
